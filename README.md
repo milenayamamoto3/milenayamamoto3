@@ -32,4 +32,4 @@ Here are some ideas to get you started:
 ## 連絡先
 
 - E-mail: milymanamy3@gmail.com
-- <a href="https://www.linkedin.com/in/milena-manamy-9bb9b124a/" target="_blank">LinkedIn</a>
+- <a href="https://www.linkedin.com/in/milena-yamamoto/" target="_blank">LinkedIn</a>
