@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 ようこそ!<br>
 現在、Pythonプログラミング言語 と IT管理を勉強中です。<br>
-[ポートフォリオ](file:///c%3A/Users/acerc/OneDrive/%C3%81rea%20de%20Trabalho/projetos_git_e_github/PerfilGitHub/index.html){target="_blank"} 
+<a href="file:///c%3A/Users/acerc/OneDrive/%C3%81rea%20de%20Trabalho/projetos_git_e_github/PerfilGitHub/index.html" target="_blank">ポートフォリオ</a>
 
 ## 私のスキル
 
@@ -32,4 +32,4 @@ Here are some ideas to get you started:
 ## 連絡先
 
 - E-mail: milymanamy3@gmail.com
-- [LinkedIn](https://www.linkedin.com/in/milena-manamy-9bb9b124a/){target="_blank"}
+- <a href="https://www.linkedin.com/in/milena-manamy-9bb9b124a/" target="_blank">LinkedIn</a>
