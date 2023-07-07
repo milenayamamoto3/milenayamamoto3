@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 ようこそ!<br>
 現在、Pythonプログラミング言語 と IT管理を勉強中です。<br>
-<a href="file:///c%3A/Users/acerc/OneDrive/%C3%81rea%20de%20Trabalho/projetos_git_e_github/Meuperfil/index.html" target="_blank">ポートフォリオ</a>
+<a href="https://milenayamamoto3.github.io/milenayamamoto3/" target="_blank">ポートフォリオ</a>
 
 ## 私のスキル
 
